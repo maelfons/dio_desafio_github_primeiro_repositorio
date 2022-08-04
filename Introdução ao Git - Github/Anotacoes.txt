@@ -1,0 +1,5 @@
+Principais comandos:
+DIR
+LS
+cd = acessar uma pasta
+cd / = retornar um acesso

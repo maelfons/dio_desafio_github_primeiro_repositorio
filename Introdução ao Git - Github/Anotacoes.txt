@@ -3,3 +3,7 @@ DIR
 LS
 cd = acessar uma pasta
 cd / = retornar um acesso
+
+git status
+git add .
+git commit -m "" (adicionar mensagem ao commit)
